@@ -1,0 +1,6 @@
+{
+    "editor.fontFamily": "Hack, 'Fira Code', Hack, Monaco, Consolas",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "editor.fontSize": 13
+}
